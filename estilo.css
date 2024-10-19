@@ -1,0 +1,47 @@
+#sesion{
+	 width: 450px;
+	 height: 40px;
+	 border-radius: 30px;
+	 background: rgba(255,255,255, 0.8);
+	 
+}
+
+body {
+	
+	background: linear-gradient(to bottom,#000000, #3a3b3a,#717272 );
+	color: #070707; 
+    height: 100vh;
+    margin: 0;
+}
+#titulo{
+	background: linear-gradient(to bottom, #026009, #03fe16);
+	font-family: algerian ;
+	font-size: 50px;
+	text-shadow: #33e1e1 10px 10px 10px 10px ;
+	width: 640px;
+	border-radius: 30px;
+
+}
+#iniciars{
+	background-color: #212120;
+	border: none;
+	padding: 20px;
+	border-radius: 70rem;
+	text-decoration: none;
+
+	width: 200px;
+	height: 50px;
+	border-radius: 30px;
+	font-family: aptos black ;
+	font-size: 21px;
+}
+#iniciars:hover{
+	background-color: #6c6c6c;
+}
+#nuevac{
+	background-color: #212120 ;
+	border: none;
+	padding: 15px;
+	border-radius: 60px;
+
+}
